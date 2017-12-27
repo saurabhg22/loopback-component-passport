@@ -1,13 +1,9 @@
 {
   "title": "LoopBack Passport Integration",
   "content": [
-    {"title": "Application Credentials", "depth": 2},
-    "lib/models/application-credential.js",
-    {"title": "Passport Configurator", "depth": 2},
-    "lib/passport-configurator.js",
-    {"title": "User Credentials", "depth": 2},
+    "lib/models/user-identity.js",
     "lib/models/user-credential.js",
-    {"title": "User Identity", "depth": 2},
-    "lib/models/user-identity.js"
+    "lib/models/application-credential.js",
+    "lib/passport-configurator.js"
   ]
 }
